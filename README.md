@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:4286f4&height=250&section=header&text=HHLee%20GitHub&fontColor=FFFFFF&fontSize=60&fontAlignY=40&desc=DevOps%20Engineer%20in%20Progress🚀&descAlignY=60)
 
 ## 👋 About Me
-* I’m an aspiring **DevOps Engineer.  
-* I’m majoring in *Information and Communication Engineering at Chungbuk National University.
+* I’m an aspiring DevOps Engineer.  
+* I’m majoring in Information and Communication Engineering at Chungbuk National University.
 
 <br>
 <br>
@@ -32,6 +32,12 @@
 <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white">
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=#EF7B4D">
 
-<br>
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**🗂️ Portfolio & Notes**  
+<a href="https://sable-mars-102.notion.site/Root-Page-188cb42f28df80479923f162df78efd4" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+</a>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:004e92,100:4286f4)
