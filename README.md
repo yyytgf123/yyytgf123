@@ -5,7 +5,6 @@
 ## 👋 About Me
 - I’m an aspiring **DevOps Engineer**.  
 - I’m majoring in **Information and Communication Engineering** at Chungbuk National University.  
-- I’m passionate about **cloud-native infrastructure**, **automation**, and **continuous deployment pipelines**.
 
 <br>
 <br>
