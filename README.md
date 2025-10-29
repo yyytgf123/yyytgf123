@@ -66,10 +66,10 @@
 
 <br>
 
-### 📝 Portfolio & Notes(Notion link)
+### 📝 My Study history(Notion link)
 <p align="center">
   <a href="https://sable-mars-102.notion.site/Root-Page-188cb42f28df80479923f162df78efd4" target="_blank">
-    <img src="https://img.shields.io/badge/Notion%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion%20link-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </p>
 
